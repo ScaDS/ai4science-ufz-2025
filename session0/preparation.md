@@ -8,12 +8,17 @@ During the training, we will use and sometimes compare several language models f
 * [OpenAI / ChatGPT](https://chatgpt.com/) (Commercial provider)
 * [Anthropic / Claude](https://claude.ai/) (Commercial provider)
 * [You.com](https://you.com) (Commercial provider)
-* [Google Gemini](https://gemini.google.com/) (Commercial provider)
+* [Google Gemini](https://gemini.google.com/) + [NotebookLM](https://notebooklm.google/) (Commercial provider)
 * [Perplexity](https://www.perplexity.ai/) (Commercial provider)
 
 If you are unsure about which providers you want to create an account with and which ones you don't, you can gladly postpone this decision until the training.
+
+## Data Analysis at Helmholtz Compute Center in Jülich
+
+If you want to execute AI-generated Python code as part of one exercise, consider logging in to the compute center in Jülich via its [Jupyter Platform](https://jupyter.jsc.fz-juelich.de/).
 
 ## Optional additional steps
 
 For technically interested participants, these optional steps could additionally be useful:
 * Running local language models with Ollama: Install [ollama](https://ollama.com/download) on your computer. After it is installed, download the language model [llama3.2](https://ollama.com/library/llama3.2:1b) by executing this command on the command line: `ollama run llama3.2:1b`.
+* 
