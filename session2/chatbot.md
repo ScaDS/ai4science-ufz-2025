@@ -28,10 +28,10 @@ Copy this prompt into a shared document and replace the `<PLACEHOLDERS>` with co
 ## Topics
 
 Various topics are available for this exercise:
+* [UFZ RDM Key AI ethics](https://rdm.pages.ufz.de/guidelines/AI-for-science/AI-Ethics/)
 * [UFZ Guidelines on Research Data Management](https://rdm.pages.ufz.de/guidelines/RDM-policy/)
-* [Use of Generative AI](nutzung_genki.docx)
 * [Guidelines for Safeguarding Good Scientific Practice](dfg_kodex_excerpt.docx)
-* [Checklist for Handling Research Data](checkliste_dmp.docx)
+* [DFG hecklist for Handling Research Data](checkliste_dmp.docx)
 * [Regulation of the Saxon State Ministry for Science, Culture and Tourism on the Award of Saxon State Scholarships](saechslstipvo.docx)
 
 ## AI Systems
