@@ -28,7 +28,7 @@ Copy this prompt into a shared document and replace the `<PLACEHOLDERS>` with co
 ## Topics
 
 Various topics are available for this exercise:
-* [Professional Ethical Guidelines for Psychologists](https://www.dgps.de/die-dgps/aufgaben-und-ziele/berufsethische-richtlinien/)
+* [UFZ Guidelines on Research Data Management](https://rdm.pages.ufz.de/guidelines/RDM-policy/)
 * [Use of Generative AI](nutzung_genki.docx)
 * [Guidelines for Safeguarding Good Scientific Practice](dfg_kodex_excerpt.docx)
 * [Checklist for Handling Research Data](checkliste_dmp.docx)
