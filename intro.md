@@ -27,13 +27,15 @@ Slides are available [online](https://doi.org/10.5281/zenodo.17799126) for reuse
 * Knowledge distillation
 * Retrieval-Augmented Generation
 
-12:15 - 13:00 Exercises
+12:15 - 13:00 Lunch break
+
+13:00 - 13:45 Exercises
 
 * [AI-supported Consulting / Implementation of your own ChatBot](session2/chatbot.md)
 * [Searching through Documents](session2/searching_documents.md)
 * [Data analysis](session2/ai_data_analysis.md)
 
-13:00 - 14:00 Lunch break
+13:45 - 14:00 Coffee break
 
 14:00 - 14:45 [Responsible Use of Generative AI and Legal Framework](session3/AIST3_ResponsibleAI.pdf)
 
@@ -41,14 +43,12 @@ Slides are available [online](https://doi.org/10.5281/zenodo.17799126) for reuse
 * Copyright
 * EU AI Act
 
-14:45 - 15:00 Break
-
-15:00 - 16:00 Exercise, Discussion and free experimentation
+14:45 - 15:30 Exercise, Discussion and free experimentation
 
 * [AI Detectors](session3/ai-detectors.md)
 * [Bias Detection](session3/bias_detection.md)
 
-16:00 - 16:15 Final discussion, feedback round
+15:30 - 15:45 Final discussion, feedback round
 
 ## Trainer
 
